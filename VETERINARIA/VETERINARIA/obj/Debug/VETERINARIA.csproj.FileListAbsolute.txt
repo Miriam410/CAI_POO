@@ -1,0 +1,7 @@
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\VETERINARIA\VETERINARIA\obj\Debug\VETERINARIA.csprojAssemblyReference.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\VETERINARIA\VETERINARIA\obj\Debug\VETERINARIA.csproj.CoreCompileInputs.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\VETERINARIA\VETERINARIA\bin\Debug\VETERINARIA.exe.config
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\VETERINARIA\VETERINARIA\bin\Debug\VETERINARIA.exe
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\VETERINARIA\VETERINARIA\bin\Debug\VETERINARIA.pdb
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\VETERINARIA\VETERINARIA\obj\Debug\VETERINARIA.exe
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\VETERINARIA\VETERINARIA\obj\Debug\VETERINARIA.pdb
