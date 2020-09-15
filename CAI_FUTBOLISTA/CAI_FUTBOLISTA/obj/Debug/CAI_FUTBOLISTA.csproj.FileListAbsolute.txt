@@ -1,0 +1,7 @@
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_FUTBOLISTA\CAI_FUTBOLISTA\bin\Debug\CAI_FUTBOLISTA.exe.config
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_FUTBOLISTA\CAI_FUTBOLISTA\bin\Debug\CAI_FUTBOLISTA.exe
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_FUTBOLISTA\CAI_FUTBOLISTA\bin\Debug\CAI_FUTBOLISTA.pdb
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_FUTBOLISTA\CAI_FUTBOLISTA\obj\Debug\CAI_FUTBOLISTA.csprojAssemblyReference.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_FUTBOLISTA\CAI_FUTBOLISTA\obj\Debug\CAI_FUTBOLISTA.csproj.CoreCompileInputs.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_FUTBOLISTA\CAI_FUTBOLISTA\obj\Debug\CAI_FUTBOLISTA.exe
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_FUTBOLISTA\CAI_FUTBOLISTA\obj\Debug\CAI_FUTBOLISTA.pdb
