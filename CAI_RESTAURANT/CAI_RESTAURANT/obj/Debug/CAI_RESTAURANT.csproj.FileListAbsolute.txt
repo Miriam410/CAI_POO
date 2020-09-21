@@ -1,0 +1,7 @@
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_RESTAURANT\CAI_RESTAURANT\bin\Debug\CAI_RESTAURANT.exe.config
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_RESTAURANT\CAI_RESTAURANT\bin\Debug\CAI_RESTAURANT.exe
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_RESTAURANT\CAI_RESTAURANT\bin\Debug\CAI_RESTAURANT.pdb
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_RESTAURANT\CAI_RESTAURANT\obj\Debug\CAI_RESTAURANT.csprojAssemblyReference.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_RESTAURANT\CAI_RESTAURANT\obj\Debug\CAI_RESTAURANT.csproj.CoreCompileInputs.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_RESTAURANT\CAI_RESTAURANT\obj\Debug\CAI_RESTAURANT.exe
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CAI_RESTAURANT\CAI_RESTAURANT\obj\Debug\CAI_RESTAURANT.pdb

@@ -1,0 +1,7 @@
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CLASE_08_09_20202\CLASE_08_09_20202\bin\Debug\CLASE_08_09_20202.exe.config
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CLASE_08_09_20202\CLASE_08_09_20202\bin\Debug\CLASE_08_09_20202.exe
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CLASE_08_09_20202\CLASE_08_09_20202\bin\Debug\CLASE_08_09_20202.pdb
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CLASE_08_09_20202\CLASE_08_09_20202\obj\Debug\CLASE_08_09_20202.csprojAssemblyReference.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CLASE_08_09_20202\CLASE_08_09_20202\obj\Debug\CLASE_08_09_20202.csproj.CoreCompileInputs.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CLASE_08_09_20202\CLASE_08_09_20202\obj\Debug\CLASE_08_09_20202.exe
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_POO\CLASE_08_09_20202\CLASE_08_09_20202\obj\Debug\CLASE_08_09_20202.pdb
