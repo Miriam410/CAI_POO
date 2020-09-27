@@ -76,22 +76,34 @@ namespace CAI_FUTBOLISTA
             }
         }
 
+        public void setMundial(bool paramMundial)
+        {
+            Mundial = paramMundial;
+        }
 
+        public string getMundial()
+        {
+            return Mundial;
+        }
 
-        public FUTBOLISTA(string Nombre, string Apellido, string Nacionalidad, int Edad,string Club, bool Mundial)
+        public FUTBOLISTA()
+        {
+        
+        }
+
+        public FUTBOLISTA(string Nombre, string Apellido, string Nacionalidad, int Edad,string Club)
         {
             this.Nombre = Nombre;
             this.Apellido = Apellido;
             this.Nacionalidad = Nacionalidad;
             this.Edad = Edad;
             this.Club = Club;
-            this.Mundial = Mundial;
         }
 
        
         public override string ToString()
         {
-            return string.Format("{0} - {1} - {2} - {3} - {4}", this.Nombre, this.Apellido, this.Nacionalidad, this.Edad, this.Club, this.Mundial);
+            return string.Format("{0} - {1} - {2} - {3} - {4} - {5}", this.Nombre, this.Apellido, this.Nacionalidad, this.Edad, this.Club, this.Mundial);
         }
 
         
